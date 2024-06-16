@@ -1,0 +1,19 @@
+{
+  "name": "node_js_mongodb_api",
+  "version": "1.0.0",
+  "description": "Node js express APi server uaing MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoamtionblog/node_js_mongodb_api.git"
+  },
+  "author": "Alwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autoamtionblog/node_js_mongodb_api/issues"
+  },
+  "homepage": "https://github.com/autoamtionblog/node_js_mongodb_api#readme"
+}
